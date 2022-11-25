@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  height: 1000px !important;
+}
+
+body {
+  overflow: hidden;
+  background: #272730;
+}
+svg{
+  color: white !important;
+}
+fieldset{
+  border-color: white !important;
+}
